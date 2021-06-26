@@ -54,7 +54,9 @@ about_profile_image: images/perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
     Posee 5 años de experiencia profesional en los que ha efectuado principalmente labores
     de programación web en entornos de tramitación electrónica para la administración 
-    pública. Actualmente trabaja como desarrollador Full-Stack en proyecto relacionados 
+    pública. 
+
+    Actualmente trabaja como desarrollador Full-Stack en proyectos relacionados 
     con Smart Cities encargada de la gestión eficiente, sostenible e inteligente de 
     múltiple sistemas IoT de servicios que serán implantados en el ámbito del 
     proyecto para el Ministerio de Economía y Empresas a través de Red.es.
