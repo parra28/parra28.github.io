@@ -136,7 +136,7 @@ content:
             quote: >
                 Servicios Integrales a Empresas
             description: | # this will include new lines to allow paragraphs
-                Venta y reparacion de equipos informáticos.
+                Venta y reparación de equipos informáticos.
 
     - title: Educación
       layout: list
