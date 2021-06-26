@@ -16,7 +16,7 @@ website:
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username:
@@ -34,10 +34,10 @@ googleplus_username:
 orcid_username:
 
 # Additional icon links
-additional_links:
-    - title: Link name
-      icon: https://fontawesome.com/icons?d=gallery&s=brands&m=free
-      url: https://google.com
+#additional_links:
+#    - title: Link name
+#      icon: https://fontawesome.com/icons?d=gallery&s=brands&m=free
+#      url: https://google.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
