@@ -84,10 +84,10 @@ content:
       layout: list
       content:
           - layout: right
-            title: IDOM Consulting, Engineering, Architecture
+            title: IDOM
             sub_title: Full Stack Development
             caption: Marzo 2019 - Actualidad
-            link: https://www.idom.com/
+            link: https://www.idom.com
             quote: >
                 Empresa independiente que presta servicios profesionales de Consultoría, Ingeniería y Arquitectura, unidos en torno a una forma de hacer, unos objetivos comunes y al servicio de nuestros clientes.
             description: | # this will include new lines to allow paragraphs
@@ -96,7 +96,7 @@ content:
             title: Everis
             sub_title: Programador/a web
             caption: Noviembre 2018 - Febrero 2019
-            link: https://www.everis.com/spain/es/home-spain
+            link: https://www.everis.com
             quote: >
                 Consultoría y outsourcing abarcando todos los sectores del ámbito económico.
             description: | # this will include new lines to allow paragraphs
@@ -127,7 +127,7 @@ content:
             quote: >
                 Multinacional española especializada en ingeniería, tecnología y consultoría (ETC).
             description: | # this will include new lines to allow paragraphs
-                Prácticas del Grado superio, desarrollador Java Web.
+                Prácticas del Grado superior, desarrollador Java Web.
           - layout: right
             title: Innovas Sie S.L,L.
             sub_title: Técnico informático
