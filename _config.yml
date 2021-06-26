@@ -96,13 +96,29 @@ content:
       layout: list
       content:
           - layout: top-right
-            title: Institution name
-            sub_title: Qualifications (eg. BA Performing Arts)
-            caption: Date Range (eg. 2016 - 2019)
-            quote: >
-                Short institution or course description (optional)
-            description: | # this will include new lines to allow paragraphs
-                Description of qualification
+            title: Universidad Pablo de Olavide
+            sub_title: Ingeniería informática en Sistemas de Información
+            caption: 2012 - 2018
+          #            quote: >
+          #                Short institution or course description (optional)
+          #            description: | # this will include new lines to allow paragraphs
+          #                Description of qualification
+          - layout: top-right
+            title: I.E.S Poligono Sur
+            sub_title: Desarrollo de Aplicaciones Informaticas
+            caption: 2010 - 2012
+          #            quote: >
+          #                Short institution or course description (optional)
+          #            description: | # this will include new lines to allow paragraphs
+          #                Description of qualification
+          - layout: top-right
+            title: I.E.S Cantillana
+            sub_title: Tecnico en Explotaciones de Sistemas Informáticos
+            caption: 2006 - 2008
+    #            quote: >
+    #                Short institution or course description (optional)
+    #            description: | # this will include new lines to allow paragraphs
+    #                Description of qualification
     - title: A Little More About Me
       layout: text
       content: | # this will include new lines to allow paragraphs
