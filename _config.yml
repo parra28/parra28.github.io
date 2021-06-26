@@ -52,13 +52,7 @@ orcid_username:
 about_title: Sobre mí
 about_profile_image: images/perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-    You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-      - Lists
-      - Tables
-      - <a href="google.com">Links</a>
-      - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    Posee 5 años de experiencia profesional en los que ha efectuado principalmente labores de programación web en entornos de tramitación electrónica para la administración pública. Actualmente trabaja como desarrollador Full-Stack en proyecto relacionados con Smart Cities encargada de la gestión eficiente, sostenible e inteligente de múltiple sistemas IoT de servicios que serán implantados en el ámbito del proyecto para el Ministerio de Economía y Empresas a través de Red.es.
 
 content:
     - title: Proyectos # Title for the section
