@@ -52,7 +52,7 @@ orcid_username:
 about_title: Sobre mí
 about_profile_image: images/perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Posee 5 años de experiencia profesional en los que ha efectuado principalmente labores
+    Posee 7 años de experiencia profesional en los que ha efectuado principalmente labores
     de programación web en entornos de tramitación electrónica para la administración 
     pública. 
 
@@ -84,9 +84,32 @@ content:
       layout: list
       content:
           - layout: right
+            title: Paradigma Digital
+            sub_title: DevOps
+            caption: Junio 2022 - Actualidad
+            link: https://www.paradigmadigital.com/
+            quote: >
+                Después de 15 años de experiencia, de sumar más de 600 profesionales a nuestra familia y de trabajar mano a mano con 120 clientes, podemos decir que nos sentimos orgullosos de contribuir al éxito digital de las compañías más importantes de nuestro país. Si tu empresa es una empresa valiente, con una visión distinta; si es innovadora, capaz de recorrer caminos nuevos sin miedo; si está dispuesta a proponerse grandes desafíos…
+            description: | # this will include new lines to allow paragraphs
+                Encargado del ecosistema de Microsoft Azure DevOps para despliegues Databrick, RStudio ... .
+          - layout: right
+            title: IDOM
+            sub_title: DevOps Engineer
+            caption: Mayo 2021 - Junio 2022
+            link: https://www.idom.com
+            quote: >
+                Empresa independiente que presta servicios profesionales de Consultoría, Ingeniería y Arquitectura, unidos en torno a una forma de hacer, unos objetivos comunes y al servicio de nuestros clientes.
+            description: | # this will include new lines to allow paragraphs
+                Desarrollo e implementación de plataformas para Smart Citie.
+                - Virtualización de máquinas en VMWARE y OpenStack
+                - Cluster de Kubernetes
+                - Integración continua en Azure DevOps
+                - Monitorización de máquinas.
+                - Servicio centralizado de logs
+          - layout: right
             title: IDOM
             sub_title: Full Stack Development
-            caption: Marzo 2019 - Actualidad
+            caption: Marzo 2019 - Mayo 2021
             link: https://www.idom.com
             quote: >
                 Empresa independiente que presta servicios profesionales de Consultoría, Ingeniería y Arquitectura, unidos en torno a una forma de hacer, unos objetivos comunes y al servicio de nuestros clientes.
