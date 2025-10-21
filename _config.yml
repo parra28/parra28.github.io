@@ -78,16 +78,18 @@ content:
     - title: Experiencia
       layout: list
       content:
-          - layout: right
+          - layout: left
+            border: weak
             title: Paradigma Digital
             sub_title: DevOps
             caption: Junio 2022 - Actualidad
             link: https://www.paradigmadigital.com/
             quote: >
-                Después de 15 años de experiencia, de sumar más de 600 profesionales a nuestra familia y de trabajar mano a mano con 120 clientes, podemos decir que nos sentimos orgullosos de contribuir al éxito digital de las compañías más importantes de nuestro país. Si tu empresa es una empresa valiente, con una visión distinta; si es innovadora, capaz de recorrer caminos nuevos sin miedo; si está dispuesta a proponerse grandes desafíos…
+                Paradigma Digital es una consultora tecnológica española especializada en transformación digital, desarrollo de productos digitales y metodologías ágiles. Con más de 15 años de experiencia, combina estrategia, diseño y tecnología para ayudar a grandes empresas a innovar, escalar y adaptarse al cambio. Forma parte de la comunidad B Corp, apostando por un modelo de negocio responsable y sostenible.
             description: | # this will include new lines to allow paragraphs
-                Encargado del ecosistema de Microsoft Azure DevOps para despliegues Databrick, RStudio ... .
-          - layout: right
+                Encargado del ecosistema de <mark>Microsoft Azure DevOps</mark> para despliegues Databrick, RStudio ... .
+          - layout: left
+            border: weak
             title: IDOM
             sub_title: DevOps Engineer
             caption: Mayo 2021 - Junio 2022
@@ -96,12 +98,13 @@ content:
                 Empresa independiente que presta servicios profesionales de Consultoría, Ingeniería y Arquitectura, unidos en torno a una forma de hacer, unos objetivos comunes y al servicio de nuestros clientes.
             description: | # this will include new lines to allow paragraphs
                 Desarrollo e implementación de plataformas para Smart Citie.
-                - Virtualización de máquinas en VMWARE y OpenStack
-                - Cluster de Kubernetes
-                - Integración continua en Azure DevOps
+                - Virtualización de máquinas en <mark>VMWARE</mark> y <mark>OpenStack</mark>
+                - Cluster de <mark>Kubernetes</mark>
+                - Integración continua en <mark>Azure DevOps</mark>
                 - Monitorización de máquinas.
-                - Servicio centralizado de logs
-          - layout: right
+                - Servicio centralizado de <mark>logs</mark>
+          - layout: left
+            border: weak
             title: IDOM
             sub_title: Full Stack Development
             caption: Marzo 2019 - Mayo 2021
@@ -109,8 +112,9 @@ content:
             quote: >
                 Empresa independiente que presta servicios profesionales de Consultoría, Ingeniería y Arquitectura, unidos en torno a una forma de hacer, unos objetivos comunes y al servicio de nuestros clientes.
             description: | # this will include new lines to allow paragraphs
-                Encargado de desarrollo y administracion de sistemas de todo en el entorno Smart Cities.
-          - layout: right
+                Encargado de desarrollo y administracion de sistemas de todo en el entorno <mark>Smart Cities</mark>.
+          - layout: left
+            border: weak
             title: Everis
             sub_title: Programador/a web
             caption: Noviembre 2018 - Febrero 2019
@@ -119,7 +123,8 @@ content:
                 Consultoría y outsourcing abarcando todos los sectores del ámbito económico.
             description: | # this will include new lines to allow paragraphs
                 Programador Java web en el proyecto Vertidos de tramitación electrónica para la Consejería de Medio Ambiente.
-          - layout: right
+          - layout: left
+            border: weak
             title: Vipirsa
             sub_title: Programador Junior
             caption: Octubre 2017 - Octubre 2018
@@ -127,8 +132,9 @@ content:
             #           quote: >
             #               Short description of the company (optional)
             description: | # this will include new lines to allow paragraphs
-                Programador Java web en el proyecto Vertidos de tramitación electrónica para la Consejería de Medio Ambiente.
-          - layout: right
+                Programador <mark>Java web</mark> en el proyecto Vertidos de tramitación electrónica para la Consejería de Medio Ambiente.
+          - layout: left
+            border: weak
             title: Servinform, S.A.
             sub_title: Programador Junior
             caption: Junio 2016 - Mayo 2017
@@ -137,7 +143,8 @@ content:
                 Especilistas en BPO, Atención y ventas, MK digital, soluciones tecnológicas y comunicación
             description: | # this will include new lines to allow paragraphs
                 Programador web especializado en tramitación electrónica de la Junta de Andalucía
-          - layout: right
+          - layout: left
+            border: weak
             title: Sadiel S.A.
             sub_title: Programador Web
             caption: Abril 2012 - Julio 2012
@@ -146,7 +153,8 @@ content:
                 Multinacional española especializada en ingeniería, tecnología y consultoría (ETC).
             description: | # this will include new lines to allow paragraphs
                 Prácticas del Grado superior, desarrollador Java Web.
-          - layout: right
+          - layout: left
+            border: weak
             title: Innovas Sie S.L,L.
             sub_title: Técnico informático
             caption: Junio 2008 - Junio 2009
@@ -159,7 +167,8 @@ content:
     - title: Educación
       layout: list
       content:
-          - layout: top-right
+          - layout: left
+            border: weak
             title: Universidad Pablo de Olavide
             sub_title: Ingeniería informática en Sistemas de Información
             caption: 2012 - 2018
@@ -167,7 +176,8 @@ content:
           #                Short institution or course description (optional)
           #            description: | # this will include new lines to allow paragraphs
           #                Description of qualification
-          - layout: top-right
+          - layout: left
+            border: weak
             title: I.E.S Poligono Sur
             sub_title: Desarrollo de Aplicaciones Informaticas
             caption: 2010 - 2012
@@ -175,7 +185,8 @@ content:
           #                Short institution or course description (optional)
           #            description: | # this will include new lines to allow paragraphs
           #                Description of qualification
-          - layout: top-right
+          - layout: left
+            border: weak
             title: I.E.S Cantillana
             sub_title: Tecnico en Explotaciones de Sistemas Informáticos
             caption: 2006 - 2008
